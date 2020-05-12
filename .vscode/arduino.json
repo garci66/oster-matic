@@ -1,0 +1,6 @@
+{
+    "sketch": "sousvide-lcd-encoder.ino",
+    "board": "arduino:avr:leonardo",
+    "output": "../build",
+    "debugger": "jlink"
+}
